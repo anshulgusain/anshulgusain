@@ -52,8 +52,8 @@
 </ul>
 
 <h3 align="left">Pinned Repositories:</h3>
-<p><b>Mr Chef:</b>1.Welcome to Mr. Chef, the food app that elevates your dining experience to new heights. As the creative force behind the captivating product page, I ensured that users were enticed by a visually enticing interface that flawlessly displayed an array of delectable food items. </p>
-<p><b>Nykaa Clone2:</b>2.Discover BeautyHub, the ultimate Nykaa clone, where beauty enthusiasts find their one-stop destination for all things glam. As the creative architect behind the elegant login and sign-up page, I crafted a seamless and user-friendly experience that invites beauty aficionados to embark on their beauty journey with style and ease.</p>
-<p><b>Mr Chef:</b>1.Welcome to Mr. Chef, the food app that elevates your dining experience to new heights. As the creative force behind the captivating product page, I ensured that users were enticed by a visually enticing interface that flawlessly displayed an array of delectable food items. </p>
+<p><b>Mr Chef:</b>1.Welcome to Mr. Chef, the food app that elevates your dining experience to new heights. As the creative force behind the captivating product page, I ensured that users were enticed by a visually enticing interface that flawlessly displayed an array of delectable food items. </p>(https://github.com/Shamaiel/Project-Nykaa.git)
+<p><b>Nykaa Clone2:</b>2.Discover BeautyHub, the ultimate Nykaa clone, where beauty enthusiasts find their one-stop destination for all things glam. As the creative architect behind the elegant login and sign-up page, I crafted a seamless and user-friendly experience that invites beauty aficionados to embark on their beauty journey with style and ease.</p>(https://github.com/Shamaiel/Project-Nykaa.git)
+<p><b>Mr Chef:</b>1.Welcome to Mr. Chef, the food app that elevates your dining experience to new heights. As the creative force behind the captivating product page, I ensured that users were enticed by a visually enticing interface that flawlessly displayed an array of delectable food items. </p>(https://github.com/Shamaiel/Project-Nykaa.git)
 <!-- Add more pinned repositories -->
 
