@@ -7,7 +7,7 @@
 - 👨‍💻 Know more About me [https://anshulgusain.github.io/](https://anshulgusain.github.io/)
 
 - 💬 Ask me about  *HTML* , *CSS* , *JS* , *React*  , *MongoDB, **ExpressJS* , *Node-JS*
-- 📄 My Resume <a href="https://drive.google.com/file/d/1Ugd9j7DJwjBVyfRjPK8s1Y9Ii-8iDCe4/view?usp=sharing">Anshul Gusian</a>
+- 📄 My Resume <a href="https://drive.google.com/file/d/1Ugd9j7DJwjBVyfRjPK8s1Y9Ii-8iDCe4/view?usp=sharing">Anshul Gusain</a>
 - 📄 My Linkedin <a href="www.linkedin.com/in/anshul-gusain-76573a224/">Linkedin Profile</a>
 
 <h3 align="left">Connect with me : <a href="#">anshulgusain99@gmail.com</a></h3>
