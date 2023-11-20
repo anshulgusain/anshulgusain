@@ -13,10 +13,7 @@
 <h3 align="left">Connect with me : <a href="#">anshulgusain99@gmail.com</a></h3>
 <p align="left">
 </p>
-<h2>Some of My projects</h2>
-<p>Food App</p>https://deluxe-caramel-2ddeb6.netlify.app//<br>
-<p>Nykaa clone</p>https://tubular-paletas-211e08.netlify.app/
-<p>Travel App</p>https://deluxe-caramel-2ddeb6.netlify.app/
+
 <h3 align="left">Languages and Tools:</h3>
 
  <div align="center"><h3 align="center">Frontend</h3>
