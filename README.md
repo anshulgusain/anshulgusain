@@ -34,10 +34,6 @@ Paste a URL and describe the app. The agent opens it in a real browser, signs up
 
 LLM-powered agent on the WhatsApp Business and Instagram Messaging APIs that handles FAQs, lead capture and order-status lookups, with MongoDB conversation history for multi-turn context.
 
-### Safe Safar: safety-first carpooling platform · [Live](https://www.safe-safar.com/)
-
-Backend with AI-powered KYC (DigiLocker, selfie liveness, face match), OCR-verified vehicle documents, real-time ride tracking with SOS, and Cashfree payments with refunds, an idempotent driver wallet and bank/UPI payouts, covered by 290+ Vitest tests.
-
 ## Tech stack
 
 **AI:** OpenAI API · Gemini API · LLM agents · tool calling · prompt engineering · Playwright<br>
