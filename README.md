@@ -1,62 +1,47 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)](https://anshulgusain.github.io/)
-<h1 align="center">Hi 👋, I'm Anshul Gusain</h1>
-<h3 align="center">A passionate about Full Stack Web Development </h3>
+<h1 align="center">Anshul Gusain</h1>
+<h3 align="center">Generative AI Full Stack Developer · I build AI agents and the full-stack products around them</h3>
 
-
-
-- 👨‍💻 Know more About me [https://anshulgusain.github.io/](https://anshulgusain.github.io/)
-
-- 💬 Ask me about  *HTML* , *CSS* , *JS* , *React*  , *MongoDB, **ExpressJS* , *Node-JS*
-- 📄 My Resume <a href="https://drive.google.com/file/d/1Ugd9j7DJwjBVyfRjPK8s1Y9Ii-8iDCe4/view?usp=sharing">Anshul Gusain</a>
-- 📄 My Linkedin <a href="www.linkedin.com/in/anshul-gusain-76573a224/">Linkedin Profile</a>
-
-<h3 align="left">Connect with me : <a href="#">anshulgusain99@gmail.com</a></h3>
-<p align="left">
+<p align="center">
+  <a href="https://anshulgusain.github.io/"><img src="https://img.shields.io/badge/Portfolio-anshulgusain.github.io-2dd4bf?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://anshulgusain.github.io/assets/resume/anshul-gusain-resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-111111?style=for-the-badge" alt="Resume"></a>
+  <a href="https://linkedin.com/in/anshul-gusain-76573a224"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:anshulgusain99@gmail.com"><img src="https://img.shields.io/badge/Email-anshulgusain99%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+Full stack developer with 1.5+ years of shipping production web apps in **React, Next.js, Node.js and TypeScript**. Lately I build generative AI products: agents that use tools and real browsers, conversational AI on WhatsApp and Instagram, and developer tools that write code in your project's style.
 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  align="center" alt="type script"/>
-<br/>
-<br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
-</div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
- </div>
- 
- <div align="center"><h3 align="center">Tools</h3> 
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="render">
-     <br />
-     <br />
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
- </div>
+**Open to AI Engineer, Full Stack and Backend roles.** Based in Dehradun, India.
 
+## Featured work
 
+### [AnyTask](https://github.com/anshulgusain/AnyTask.Ai): an AI agent that QA-tests web apps · [Live demo](https://any-task-ai.vercel.app)
 
-<h3 align="left">Description </h3>
-<p>Hey , This is Anshul Gusain Full Stack web developer  with the knowledge of frontend and backened . Ready  to get the opportunity and also is enthusiastic to give contribution on projects .  </p>
-<h2>About Performance on Work</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulgusain&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulgusain&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=anshulgusain&show_icons=true&theme=radical"/>
+Paste a URL and describe the app. The agent opens it in a real browser, signs up with a throwaway account, fills in forms, clicks through the main flows and reports what works and what's broken, with screenshots and steps to reproduce.
+
+- Observe-decide-act loop with **OpenAI tool calling**; **Playwright** drives the browser
+- Acts on a numbered element map of each page instead of guessed CSS selectors
+- Human-in-the-loop: asks for OTPs and credentials, takes mid-run notes, needs approval before payments or deletes
+- Pass / Fail / Blocked / Inconclusive verdicts, so the agent's own mistakes are never reported as site bugs
+- SSRF protection, API-key auth, a job queue and live progress over Server-Sent Events; Docker on Render + Vercel
+
+`TypeScript` `Node.js` `Playwright` `OpenAI API` `Next.js` `PostgreSQL` `Prisma` `Docker`
+
+### [AutoStack AI](https://github.com/anshulgusain/AutoStack-Ai): backend scaffolding CLI with AI code generation · [npm](https://www.npmjs.com/package/autostack-ai)
+
+`npx autostack-ai` scaffolds a production-ready Express backend (JWT, Google OAuth, Socket.IO, Helmet, rate limiting, Vitest/Supertest, Docker, GitHub Actions). An AI command reads your codebase conventions and uses the Gemini API to generate matching routes.
+
+### [WhatsApp & Instagram AI Chat Agent](https://github.com/anshulgusain/WhatsApp-Business-Agent)
+
+LLM-powered agent on the WhatsApp Business and Instagram Messaging APIs that handles FAQs, lead capture and order-status lookups, with MongoDB conversation history for multi-turn context.
+
+### Safe Safar: safety-first carpooling platform · [Live](https://www.safe-safar.com/)
+
+Backend with AI-powered KYC (DigiLocker, selfie liveness, face match), OCR-verified vehicle documents, real-time ride tracking with SOS, and Cashfree payments with refunds, an idempotent driver wallet and bank/UPI payouts, covered by 290+ Vitest tests.
+
+## Tech stack
+
+**AI:** OpenAI API · Gemini API · LLM agents · tool calling · prompt engineering · Playwright<br>
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS<br>
+**Backend:** Node.js · Express · REST · WebSockets / Socket.IO · Server-Sent Events · webhooks<br>
+**Data:** PostgreSQL · MongoDB · Prisma · Redis · MySQL<br>
+**DevOps:** Docker · GitHub Actions · Render · Vercel · Cloudinary
